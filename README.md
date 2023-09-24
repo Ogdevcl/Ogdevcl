@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ogdev_
+- 👀 I’m interested in Progamming/Linux
+- 🌱 I’m currently learning JS
