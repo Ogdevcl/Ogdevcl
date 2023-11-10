@@ -1,17 +1,17 @@
-# 👋 Hi, ich bin Ogdev_!
+# 👋 Hi, I'm Ogdev_!
 
-Willkommen in meinem GitHub-Repository! Ich bin leidenschaftlich an Programmierung und Linux interessiert und arbeite derzeit an meiner JavaScript-Kenntnissen.
+Welcome to my GitHub repository! I'm passionate about programming and Linux, and I'm currently working on expanding my knowledge of JavaScript.
 
-## Über mich
-- 🌱 Aktuell lerne ich JavaScript, um meine Fähigkeiten in der Webentwicklung zu erweitern.
-- 👀 Ich liebe die Welt des Open Source und teile gerne mein Wissen und meine Projekte.
+## About Me
+- 🌱 I'm currently learning JavaScript to enhance my web development skills.
+- 👀 I love the world of Open Source and enjoy sharing my knowledge and projects.
 
-## Kontakt
-- Du kannst mich über [E-Mail](ogdevcl+github@gmail.com) erreichen.
-- Besuche auch meinen [Blog](soon), auf dem ich über meine Entwicklungsreisen schreibe.
+## Contact
+- You can reach me via [Email](ogdevcl+github@gmail.com).
+- Also, visit my [Blog](soon) where I write about my development journeys.
 
-## Technologien
-Hier sind einige Technologien und Tools, mit denen ich arbeite:
-- 🖥️ Linux
-- 💻 JavaScript
-- 🐍 Python
+## programming languages
+Here are some programming languages I work with:
+![Linux](images/linux.png)
+![JavaScript](images/javascript.png)
+![Python](images/python.png)
