@@ -10,9 +10,11 @@ Welcome to my GitHub repository! I'm passionate about programming and Linux, and
 - You can reach me via [Email](ogdevcl+github@gmail.com).
 - Also, visit my [Blog](soon) where I write about my development journeys.
 
-## programming languages
+## Programming Languages
 Here are some programming languages I work with:
-![JavaScript](Imgs/javascript.svg)
-![Python](Imgs/py.svg)
-![Html](Imgs/html.svg)
-![CSS](Imgs/css.svg)
+
+- ![JavaScript](Imgs/javascript.svg) JavaScript
+- ![Python](Imgs/py.svg) Python
+- ![HTML](Imgs/html.svg) HTML
+- ![CSS](Imgs/css.svg) CSS
+
