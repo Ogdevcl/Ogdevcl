@@ -13,8 +13,8 @@ Welcome to my GitHub repository! I'm passionate about programming and Linux, and
 ## Programming Languages
 Here are some programming languages I work with:
 
-- ![JavaScript](Imgs/javascript.svg) JavaScript
-- ![Python](Imgs/py.svg) Python
-- ![HTML](Imgs/html.svg) HTML
-- ![CSS](Imgs/css.svg) CSS
+- ![JavaScript](Imgs/javascript.svg)
+- ![Python](Imgs/py.svg)
+- ![HTML](Imgs/html.svg)
+- ![CSS](Imgs/css.svg)
 
