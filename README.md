@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I'm passionate about programming and Linux, and
 
 ## programming languages
 Here are some programming languages I work with:
-![JavaScript](Imgs/javascript.png)
-![Python](Imgs/python.png)
-![Html](Imgs/html.png)
-![CSS](Imgs/css.png)
+![JavaScript](Imgs/javascript.svg)
+![Python](Imgs/py.svg)
+![Html](Imgs/html.svg)
+![CSS](Imgs/css.svg)
