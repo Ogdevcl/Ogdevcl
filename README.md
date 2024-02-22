@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm passionate about programming and Linux, and
 - 👀 I love the world of Open Source and enjoy sharing my knowledge and projects.
 
 ## Contact
-- You can reach me via [Email](ogdevcl+github@gmail.com).
+- You can reach me via [Email](support@ogdevs.de).
 - Also, visit my [Blog](soon) where I write about my development journeys.
 
 ## Programming Languages
