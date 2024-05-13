@@ -15,7 +15,7 @@ Here are some programming languages I work with:
 
 - ![JavaScript](Imgs/javascript.svg)
 - ![Python](Imgs/py.svg)
-- ![PHP](Imgs/php.svg)
+- ![PHP](Imgs/php.png)
 - ![HTML](Imgs/html.svg)
 - ![CSS](Imgs/css.svg)
 
