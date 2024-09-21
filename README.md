@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ogdev_!
+# 👋 Hi, I'm Rami!
 
 Welcome to my GitHub repository! I'm passionate about programming and Linux, and I'm currently working on expanding my knowledge of JavaScript.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm passionate about programming and Linux, and
 - 👀 I love the world of Open Source and enjoy sharing my knowledge and projects.
 
 ## Contact
-- You can reach me via [Email](support@ogdevs.de).
+- You can reach me via [Email](ogdevcl@gmail.com).
 - Also, visit my [Blog](soon) where I write about my development journeys.
 
 ## Programming Languages
